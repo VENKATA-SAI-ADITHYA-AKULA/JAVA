@@ -1,2 +1,2 @@
 # JAVA
-self-learning material
+self-learning way
